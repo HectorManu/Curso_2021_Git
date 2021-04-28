@@ -17,5 +17,5 @@ pero no borra los cambios que tenemos sin git add.
 ## git branch <nombre_de_lista>
 >Sirve para crear una rama
 ## git config --global user.name ""
->esto hace cambiar nuesto nombre   s
+>esto hace cambiar nuesto nombre
 
