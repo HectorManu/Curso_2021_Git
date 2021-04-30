@@ -18,6 +18,5 @@ pero no borra los cambios que tenemos sin git add.
 >Sirve para crear una rama
 ## git config --global user.name ""
 >esto hace cambiar nuesto nombre
->aquí vamos a ver que pasa
->aasffa
+
 
