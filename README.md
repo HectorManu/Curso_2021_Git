@@ -19,4 +19,4 @@ pero no borra los cambios que tenemos sin git add.
 ## git config --global user.name ""
 >esto hace cambiar nuesto nombre
 
-w
+soy negro :v 
